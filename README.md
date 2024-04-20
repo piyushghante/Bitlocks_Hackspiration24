@@ -1,6 +1,6 @@
 # Bitlocks_Hackspiration24
 Project code for Bitlocks_Hackspiration24
-
+# Cell6.txt , Process.txt , encrypted_image.png essential to run the project
 
 To use the provided code for BitLocks, you would need to ensure that you have the necessary libraries installed in your Python environment. Here's a list of the required libraries along with their installation commands using pip:
 
